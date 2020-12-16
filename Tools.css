@@ -90,12 +90,23 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 717px;
+  min-height: 998px;
 }
 
 .u-section-2 .u-text-1 {
   font-family: "Alfa Slab One";
-  margin: 21px auto 60px 60px;
+  margin: 21px auto 0 60px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 820px;
+  height: 546px;
+  margin: 33px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 33px 0 47px;
 }
 
 @media (max-width: 1199px) {
@@ -106,30 +117,45 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 622px;
+    min-height: 931px;
   }
 
   .u-section-2 .u-text-1 {
     margin-left: 38px;
   }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 479px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 526px;
+    min-height: 811px;
   }
 
   .u-section-2 .u-text-1 {
     margin-left: 29px;
   }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 359px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 419px;
+    min-height: 678px;
   }
 
   .u-section-2 .u-text-1 {
     margin-left: 18px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 226px;
   }
 }
