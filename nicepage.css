@@ -3,9 +3,6 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2020 Froala Labs
  */
-html  {
-  scroll-behavior: smooth;
-}
 
 .fr-clearfix::after {
   clear: both;
@@ -32268,7 +32265,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin: 16px auto 0 -73px;
+  margin: 26px auto 0 -73px;
 }
 
 .u-header .u-logo-image-1 {
@@ -32277,7 +32274,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -56px 24px 60px auto;
+  margin: -66px 24px 60px auto;
 }
 
 .u-header .u-nav-1 {
@@ -32298,7 +32295,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -56px;
+    margin-top: -66px;
     margin-right: 0;
   }
 }
