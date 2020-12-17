@@ -5,7 +5,9 @@
 .u-section-1 .u-sheet-1 {
   min-height: 873px;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 .u-section-1 .u-shape-1 {
   width: 371px;
   left: auto;
