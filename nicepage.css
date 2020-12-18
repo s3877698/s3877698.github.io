@@ -10,6 +10,10 @@
   content: "";
   height: 0; }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .fr-hide-by-clipping {
   position: absolute;
   width: 1px;
